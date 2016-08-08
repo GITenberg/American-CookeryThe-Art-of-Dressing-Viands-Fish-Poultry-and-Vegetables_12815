@@ -1,0 +1,26 @@
+_repo: American-CookeryThe-Art-of-Dressing-Viands-Fish-Poultry-and-Vegetables_12815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simmons, Amelia
+    gutenberg_agent_id: '4616'
+    url: http://www.gutenberg.org/2009/agents/4616
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12815'
+  lccn: '96126967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American -- Early works to 1800'
+- !lcc 'TX'
+- GITenberg
+title: 'American Cookery
+
+  The Art of Dressing Viands, Fish, Poultry, and Vegetables'
+url: http://www.gutenberg.org/ebooks/12815
