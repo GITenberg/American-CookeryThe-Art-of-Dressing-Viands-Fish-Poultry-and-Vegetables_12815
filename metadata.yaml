@@ -1,11 +1,16 @@
 _repo: American-CookeryThe-Art-of-Dressing-Viands-Fish-Poultry-and-Vegetables_12815
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Simmons, Amelia
     gutenberg_agent_id: '4616'
     url: http://www.gutenberg.org/2009/agents/4616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12815#American-CookeryThe-Art-of-Dressing-Viands-Fish-Poultry-and-Vegetables
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-07-04'
 gutenberg_type: Text
